@@ -1,3 +1,4 @@
+#also list kingdom,phylum,class
 #TODO: provide links to more sutff
 for filename in $*
 
